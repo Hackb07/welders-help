@@ -4,3 +4,4 @@ opencv-python
 torch
 ultralytics
 pillow
+streamlit-webrtc
